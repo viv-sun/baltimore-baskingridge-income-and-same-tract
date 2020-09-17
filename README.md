@@ -1,6 +1,6 @@
 # baltimore-baskingridge-income-and-same-tract 
 ## Background Information
-I am interested in comparing Baltimore city, MD to my hometown of Basking Ridge, NJ. All data comes from [Opportunity Atlas](https://www.opportunityatlas.org/), which uses anonymous data that follows 20 million Americans from their childhood to their mid-30s in 2015. In this project, I am looking at __Household Income__ and __Percentage of Adults who Stayed in the Same Tract (SST)__. Household income refers to the average household income that a person (who grew up in this area) has in 2014-15. The SST metric refers to the percentage of people who still live in the same Census tract that they grew up in. 
+I am interested in comparing Baltimore city, MD to Basking Ridge, NJ. All data comes from [Opportunity Atlas](https://www.opportunityatlas.org/), which uses anonymous data that follows 20 million Americans from their childhood to their mid-30s in 2015. In this project, I am looking at __Household Income__ and __Percentage of Adults who Stayed in the Same Tract (SST)__. Household income refers to the average household income that a person (who grew up in this area) has in 2014-15. The SST metric refers to the percentage of people who still live in the same Census tract that they grew up in. 
 
 I thought that the SST metric was intruiguing - I hadn't seen it as often as I had seen metrics like incarceration rate, high school graduation rate, etc. I wondered if it had any relation to the household income that people would later have as adults.
 
